@@ -1,0 +1,35 @@
+
+   Sample
+   Component
+   Management
+   
+   Composite
+   State
+   AUI
+   Agent + Event
+   API
+   Cache
+   Database
+
+   HTML + CSS + JS + JQUERY
+   PHP + XML + XQUERY
+   NodeJS + JSON
+   Python + YAML
+   MySQL + C
+   NoSQL + C
+   Ada + C
+   Haskell + C
+   Crystal + C
+   Dart + Flutter
+   Falcon + VueJS
+   NestTS + AngularTS
+   ExpressJS + ReactJS
+   ElectronJS + ReactJS
+   Java + Kotlin + Groovy
+
+   DataDriven & EventDriven
+   Reflective & Reactive
+   Agentive   & Objective
+   Procedural & Functional
+   Imperative & Declarative
+
