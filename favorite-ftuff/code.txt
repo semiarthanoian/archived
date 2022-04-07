@@ -29,7 +29,6 @@
 
    DataDriven & EventDriven
    Reflective & Reactive
-   Agentive   & Objective
+   Objective  & Agentive
    Procedural & Functional
    Imperative & Declarative
-
