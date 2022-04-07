@@ -32,3 +32,4 @@
    Objective  & Agentive
    Procedural & Functional
    Imperative & Declarative
+
