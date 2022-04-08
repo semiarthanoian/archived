@@ -3,6 +3,11 @@
    Component
    Management
    
+   Belief
+   Capability
+   Choice
+   Commitment
+   
    Composite
    State
    AUI
