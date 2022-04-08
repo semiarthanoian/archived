@@ -1,12 +1,15 @@
 
+   Free Will
+   Consciousness
+   
+   Capability
+   Commitment
+   Intention
+   Knowledge
+   
    Sample
    Component
    Management
-   
-   Capability
-   Commitment   Free Will
-   Intention    Consciousness
-   Knowledge
    
    Composite
    State
