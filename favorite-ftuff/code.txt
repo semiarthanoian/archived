@@ -3,10 +3,10 @@
    Component
    Management
    
-   Belief
    Capability
-   Choice
-   Commitment
+   Commitment   Free Will
+   Intention    Consciousness
+   Knowledge
    
    Composite
    State
