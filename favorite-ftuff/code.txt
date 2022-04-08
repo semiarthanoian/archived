@@ -1,17 +1,17 @@
 
-   Free Will
    Consciousness
-   
-   Capability
-   Commitment
-   Intention
+   Free Will
+
    Knowledge
+   Intention
+   Commitment
+   Capability
    
    Sample
    Component
    Management
    
-   Composite
+   Interface
    State
    AUI
    Agent + Event
