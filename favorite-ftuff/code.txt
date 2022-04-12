@@ -34,6 +34,8 @@
    ExpressJS + ReactJS
    ElectronJS + ReactJS
    Java + Kotlin + Groovy
+   Csharp + Fsharp + VisualBasic
+   TypeScript + PureScript + JavaScript
 
    DataDriven & EventDriven
    Reflective & Reactive
