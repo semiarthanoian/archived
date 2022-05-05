@@ -28,18 +28,17 @@
    Ada + C
    Haskell + C
    Crystal + C
-   Dart + Flutter
    Falcon + VueJS
    NestTS + AngularTS
    ExpressJS + ReactJS
    ElectronJS + ReactJS
-   Java + Kotlin + Groovy
-   TypeScript + PureScript + JavaScript
-   Csharp + Fsharp + VisualBasic for Application
+   Java + Scala + Groovy
+   Csharp + Fsharp + VBfA
+   (Type + Pure + Java)Script
+   Dart + Flutter + (Kotlin | Swift)
 
    DataDriven & EventDriven
    Reflective & Reactive
    Objective  & Agentive
    Procedural & Functional
    Imperative & Declarative
-
