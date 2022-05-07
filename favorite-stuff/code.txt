@@ -1,7 +1,7 @@
-
+   
    Consciousness
    Free Will
-
+   
    Knowledge
    Intention
    Commitment
@@ -18,7 +18,7 @@
    API
    Cache
    Database
-
+   
    HTML + CSS + JS + JQUERY
    PHP + XML + XQUERY
    NodeJS + JSON
@@ -29,16 +29,17 @@
    Haskell + C
    Crystal + C
    Falcon + VueJS
-   NestTS + AngularTS
-   ExpressJS + ReactJS
-   ElectronJS + ReactJS
+   (Nest + Angular)TS
+   (Express + React)JS
+   (Electron + React)JS
    Java + Scala + Groovy
-   Csharp + Fsharp + VBfA
+   (C + F)sharp + VB for A
    (Type + Pure + Java)Script
    Dart + Flutter + (Kotlin | Swift)
-
+   
    DataDriven & EventDriven
    Reflective & Reactive
    Objective  & Agentive
    Procedural & Functional
    Imperative & Declarative
+   

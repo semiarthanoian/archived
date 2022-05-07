@@ -1,20 +1,18 @@
 
 
-     typography          character         color
-
-
-
-
-
-
-
-     complement        transparent       balance
-
-
-
-
-
-
-
-     structure           content          rhythm
+     typography       character      colorgraphy
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+     balance        transparent       complement
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+     structure          content           rhythm
 
