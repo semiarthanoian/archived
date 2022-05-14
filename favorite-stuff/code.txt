@@ -29,13 +29,13 @@
    Haskell + C
    Crystal + C
    Falcon + VueJS
-   Symfony + VueJS
+   Pyramid + VueJS
    Laravel + EmberJS
    (Nest + Angular)TS
    (Express + React)JS
    (Electron + React)JS
    Java + Kotlin + Groovy
-   (C + F)sharp + VB for A
+   (C + F)sharp + VB for A.
    (Type + Pure + Java)Script
    Dart + Flutter + (Kotlin | Swift)
 
