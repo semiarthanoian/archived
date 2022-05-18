@@ -1,6 +1,9 @@
 
    Consciousness
    Free Will
+   Stay Center
+   Acceptance
+   Gorvernance
 
    Knowledge
    Intention
@@ -13,7 +16,7 @@
 
    Interface
    State
-   AUI
+   API
    Agent + Event
    API
    Cache
@@ -35,7 +38,7 @@
    (Express + React)JS
    (Electron + React)JS
    Java + Kotlin + Groovy
-   (C + F)sharp + VB for A.
+   (C + F)sharp + VB for App
    (Type + Pure + Java)Script
    Dart + Flutter + (Kotlin | Swift)
 
