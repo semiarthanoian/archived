@@ -34,12 +34,10 @@
    Falcon + VueJS
    Pyramid + VueJS
    Laravel + EmberJS
-   (Nest + Angular)TS
-   (Express + React)JS
-   (Electron + React)JS
+   ExpressJS + ReactJS
+   ElectronJS + ReactJS
    Java + Kotlin + Groovy
-   (C + F)sharp + VB for App
-   (Type + Pure + Java)Script
+   Type + Pure + Java @ Script
    Dart + Flutter + (Kotlin | Swift)
 
    DataDriven & EventDriven
