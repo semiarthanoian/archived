@@ -24,7 +24,7 @@
 
    HTML + CSS + JS + JQUERY
    PHP + XML + XQUERY
-   NodeJS + JSON
+   Nodejs + JSON
    Python + YAML
    MySQL + C
    NoSQL + C
