@@ -33,6 +33,7 @@
    Crystal + C
    Falcon + VueJS
    Pyramid + VueJS
+   NestJS + Angular
    Laravel + EmberJS
    ExpressJS + ReactJS
    ElectronJS + ReactJS
