@@ -28,6 +28,7 @@
    Python + YAML
    MySQL + C
    NoSQL + C
+   Lua + C
    Ada + C
    Haskell + C
    Crystal + C
