@@ -1,10 +1,14 @@
 
+   Gratitude
+   Empathic
+   Merciful
+
    Consciousness
+   Embracement
+   Acceptance
    Free Will
    Stay Center
-   Acceptance
-   Embracement
-   Gorvernance
+   Keep Balance
 
    Knowledge
    Capability
@@ -12,7 +16,7 @@
    Commitment
 
    Simplicity
-   Component
+   Components
    Management
 
    Interface
@@ -22,6 +26,14 @@
    API
    Cache
    Database
+
+   Community
+   Hello World
+   Basic Syntax
+   Core Principles
+   Input & Output
+   Types & Tools
+   Ecosystem
 
    HTML + CSS + JS + JQUERY
    PHP + XML + XQUERY
