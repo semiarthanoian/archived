@@ -1,0 +1,20 @@
+Imperative      + C
+Declarative     + SQL
+Procedural      + Ada Lovelace
+Functional      + Haskell Curry
+- - - - - - - - - - - - - - - -
+Object-Oriented + TypeScript
+Agent-Oriented  + TypeScript
+Reactive        + PureScript
+Reflective      + JavaScript
+- - - - - - - - - - - - - - - -
+Data-Driven     + JavaScript
+Event-Driven    + JavaScript
+- - - - - - - - - - - - - - - -
+Event
+Reflective
+Objective
+Agentive
+Functional
+Reactive
+Data
