@@ -4,7 +4,7 @@ Procedural      + Ada
 Functional      + Haskell
 Object-Oriented + TypeScript
 - - - - - - - - - - - - - - - - - -
-Data-Driven     + JavaScript
+Data-Driven     + Lua/Python
 Event-Driven    + JavaScript
 Reactive        + JavaScript
 Reflective      + JavaScript
