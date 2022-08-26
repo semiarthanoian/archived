@@ -1,0 +1,23 @@
+
+   Northern Altar
+      Sakyamuni Tathagata        -> Lotus Sutra
+      Manjushri Bodhisattva      -> Manjushri Dharani
+      Samanthabhadra Bodhisattva -> Samanthabhadra Dharani
+
+   Western Altar
+      Amitabha Tathagata           -> Amitabha Sutra
+      Avalokitesvara Bodhisattva   -> Avalokitesvara Dharani
+      Mahasthamaprapta Bodhisattva -> Mahasthamaprapta Dharani
+
+   Eastern Altar
+      Bhaisajyaguru Tathagata  -> Bhaisajyaguru Sutra
+      Suryaprabha Bodhisattva  -> Suryaprabha Dharani
+      Candraprabha Bodhisattva -> Candraprabha Dharani
+
+   Southern Altar
+      Ratnasambhava Tathagata -> Surangama Sutra
+      Akasagarbha Bodhisattva -> Akasagarbha Dharani
+      Ksitigarbha Bodhisattva -> Ksitigarbha Dharani
+
+   Any-direction
+      Surya Tara -> 108 Taras -> 6+1 Taras -> Dharanis

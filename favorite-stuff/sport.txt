@@ -1,8 +1,0 @@
-
-   Weiqi
-   Gomoku
-   Reversi
-   Tic-Tac-Toe
-   Basketball
-   Billiard
-   Parkour
