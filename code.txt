@@ -33,7 +33,7 @@
    Core Principles
    Input & Output
    Types & Tools
-   Ecosystem
+   Eco-system
 
    HTML + CSS + JS + JQUERY
    PHP + XML + XQUERY
@@ -75,3 +75,8 @@
 - - - - - - - - - - - - - - - - - -
    Event-Driven    + JavaScript
    Data-Driven     + JavaScript
+
+   Array + List   -> Vector
+   Stack + Queue  -> Unique
+   Map   + Object -> Hashed
+   Tree  + Graph  -> Sorted
