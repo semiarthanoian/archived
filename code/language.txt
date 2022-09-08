@@ -1,0 +1,28 @@
+
+   Community
+   Hello World
+   Basic Syntax
+   Core Principles
+   Input & Output
+   Types & Tools
+   Eco-system
+
+   HTML + CSS + JS + JQUERY
+   PHP + XML + XQUERY
+   Nodejs + JSON
+   Python + YAML
+   MySQL + C
+   NoSQL + C
+   Ada + C
+   Lua + C
+   Haskell + C
+   Crystal + C
+   Falcon + VueJS
+   Pyramid + VueJS
+   NestJS + Angular
+   Laravel + EmberJS
+   ExpressJS + ReactJS
+   ElectronJS + ReactJS
+   Java + Kotlin + Groovy
+   Type + Pure + Java @ Script
+   Dart + Flutter + (Kotlin | Swift)

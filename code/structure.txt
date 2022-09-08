@@ -1,0 +1,5 @@
+
+   Array + List   -> Vector
+   Stack + Queue  -> Unique
+   Map   + Object -> Hashed
+   Tree  + Graph  -> Sorted

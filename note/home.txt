@@ -1,6 +1,6 @@
 
-   Vietnam        China          Japan
+   Vietnam        Japan          China          
 
-   Hanoi          Nanning        Kamikatsu
+   Hanoi          Kamikatsu      Nanning        
 
-   Vinh           Hongkong       Kyoto
+   Vinh           Kyoto          Hongkong       

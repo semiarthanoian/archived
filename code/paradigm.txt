@@ -1,0 +1,15 @@
+
+   Imperative      + C
+   Declarative     + SQL
+- - - - - - - - - - - - - - - - - -
+   Procedural      + Ada
+   Functional      + Haskell
+- - - - - - - - - - - - - - - - - -
+   Object-Oriented + TypeScript
+   Agent-Oriented  + TypeScript
+- - - - - - - - - - - - - - - - - -
+   Reactive        + JavaScript
+   Reflective      + JavaScript
+- - - - - - - - - - - - - - - - - -
+   Event-Driven    + JavaScript
+   Data-Driven     + JavaScript
