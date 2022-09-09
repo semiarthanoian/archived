@@ -1,8 +1,12 @@
 
 
+
         breath     identity     memory
          /  \        /  \        /  \
         /    \      /    \      /    \
        /      \    /      \    /      \
       /        \  /        \  /        \
    gross      subtle     formless     void
+
+
+

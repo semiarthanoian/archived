@@ -1,6 +1,7 @@
 
-   Taiwan         Japan          Vietnam        China          
+   Taiwan         Japan          |      Vietnam        China          
 
-   Chiayi         Kamikatsu      Hanoi          Nanning        
+   Chiayi         Kamikatsu      |      Hanoi          Nanning        
 
-   Hualien        Kyoto          Vinh           Hongkong       
+   Hualien        Kyoto          |      Vinh           Hongkong       
+
