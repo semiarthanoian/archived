@@ -13,8 +13,8 @@
 
    - - - - - - - - - - - - - - - - - -
 
-   Hà Nội      Thimphu
-   Hà Tĩnh     Hà Giang    Móng Cái    Điện Biên
+   Hà Nội      Hà Tĩnh     Hà Giang    Móng Cái    Điện Biên
    Nanning     Guangzhou
+   Thimphu
    Chiayi      Hualien
-   Sakurai     Kamikatsu
+   Okinawa     Kamikatsu   Sakurai
