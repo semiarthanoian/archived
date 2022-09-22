@@ -1,7 +1,5 @@
 
-   buddhism mahasattvas
-   linux for end-users
+   buddhist mahasattvas
    foreign languages
    coding languages
-   graphic suite
-   office suite
+   foss softwares
